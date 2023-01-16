@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = loubnahabchaoui@gmail.com
+	name = loubna habchaoui
